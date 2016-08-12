@@ -1,4 +1,4 @@
-package org.apache.hadoop.examples;
+package com.hadoop.mapreduce.examples;
 
 import java.io.IOException;
 
